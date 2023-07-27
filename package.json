@@ -1,0 +1,19 @@
+{
+  "name": "css-data",
+  "version": "0.0.1",
+  "description": "A collection of data related to CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yass-org/css-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yass-org/css-data/issues"
+  },
+  "homepage": "https://github.com/yass-org/css-data#readme"
+}
