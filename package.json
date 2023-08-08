@@ -1,6 +1,6 @@
 {
   "name": "css-data",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A collection of data related to CSS",
   "main": "./build/index.js",
   "scripts": {
